@@ -1,4 +1,4 @@
-# Board orientation using Accelerometer and Magnetometer
+# Arduino Board Orientation Detection Using Accelerometer and Magnetometer
 To obtain the orientation of the IoT board, readings from accelerometer and magnetometer are used. With the info receiving from accelerometer, it is only possible to calculate rotation angles pitch and roll and to calculate yaw the magnetometer readings were used. Magnetometer has been calibrated to compensate for soft-iron and hard-iron errors. 
 
 # 1. Using Accelerometer to find tilt angles
